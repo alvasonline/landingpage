@@ -1,6 +1,7 @@
 body{
     background: #eee;
-    color: #999;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #mini{
@@ -17,7 +18,7 @@ body{
     width: 50%;
 }
 
-#caja p{
+#caja p, h2{
     margin: 10px;
 }
 
@@ -29,7 +30,7 @@ body{
 #caja h1{
     font-weight: bold;
     font-size: 30px;
-    background: #003366;
+    background: #33a;
     margin: 0;
     padding: 10px;
     color: #fff;
