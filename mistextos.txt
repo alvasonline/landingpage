@@ -6,4 +6,5 @@ Se vuelve a crear otra linea más para validar que pasa cuando ya esta en stagin
 12 07 am se agrega otra linea, se continua escibiendo
 12.59 se trabaja desde la rama alvas para pruebas
 1 05 pm domingo, se hacen pruebas desde la rama alvas
+1 15 pm domingo se prueba el git stash agregando texto despues de haber realizado stash
 
